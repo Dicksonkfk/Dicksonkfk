@@ -2,7 +2,7 @@
 
 I am a passionate DevOps Engineer and interested in Creating automation scripts and robust CI/CD Pipelines while specialized in scripting with Terraform, Ansible.
 
-I am also a Certified Azure Solution Architect Expert and have multiple Azure Certifications. I used to utilize my free time to work on new projects and stuffs.
+I am also a Certified Azure Solution Architect Expert and have multiple Azure Certifications. I used to utilize my free time to work on freelance projects and stuffs.
 
 - Technical focus - Linux 🐧 Kubernetes 🐳 Observability ⚡ Cloud ☁️ Python 🐍
 
