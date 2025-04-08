@@ -7,7 +7,7 @@ I am also a Certified Azure Solution Architect Expert and have multiple Azure Ce
 - Technical focus - `Linux 🐧 Kubernetes 🐳 Observability ⚡ Cloud ☁️ Python 🐍`
 
 - 📫 How to reach me: 
-* [LinkedIn](https://www.linkedin.com/in/d4rrck-d3v90s-is-l8f3/) 
+* [LinkedIn](https://www.linkedin.com/in/d4rrck-d3v90s/) 
 * [Medium Profile](https://medium.com/@derrick-devops-blog-sharing)
 
 - Certfications: 
